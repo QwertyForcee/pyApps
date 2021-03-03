@@ -1,1 +1,2 @@
-print(123)
+a=input("a= ")
+print(a[::-1])
